@@ -1,0 +1,47 @@
+season,match_no,date,team_1,team_1_score,team_1_wicket,team_2,team_2_score,team_2_wicket,player_of_match,toss_winner,toss_decision,winner,venue,city,win_by_wickets,win_by_runs,result,umpire_1,umpire_2
+2022/23,1st,Jan 6 2023,Chattogram Challengers,89,9,Sylhet Strikers,90,2,Rejaur Rahman Raja,Sylhet Strikers,field first,Sylhet Strikers,SBNCS,Mirpur,8,0,8 wickets,Gazi Sohel,Mahfuzur Rahman
+2022/23,2nd,Jan 6 2023,Rangpur Rangers,176,5,Comilla Victorians,142,10,Rony Talukdar,Comilla Victorians,field first,Rangpur Rangers,SBNCS,Mirpur,0,34,34 runs,Morshed Ali Khan,Tanvir Ahmed
+2022/23,3rd,Jan 7 2023,Khulna Tigers,113,8,Dhaka Dominators,117,4,Nasir Hossain,Dhaka Dominators,field first,Dhaka Dominators,SBNCS,Mirpur,6,0,6 wickets,Gazi Sohel,Morshed Ali Khan
+2022/23,4th,Jan 7 2023,Fortune Barishal,194,7,Sylhet Strikers,196,4,Towhid Hridoy,Fortune Barishal, bat first,Sylhet Strikers,SBNCS,Mirpur,6,0,6 wickets,Mahfuzur Rahman,Tanvir Ahmed
+2022/23,5th,Jan 9 2023,Comilla Victorians,149,6,Sylhet Strikers,150,5,Towhid Hridoy,	Sylhet Strikers,field first,Sylhet Strikers,SBNCS,Mirpur,5,0,5 wickets,David Millns,Masudur Rahman
+2022/23,6th,Jan 9 2023,Khulna Tigers,178,5,Chattogram Challengers,179,1,Usman Khan,Chattogram Challengers,field first,Chattogram Challengers,SBNCS,Mirpur,9,0,9 wickets,Raveendra Wimalasiri,Tanvir Ahmed
+2022/23,7th,Jan 10 2023,Rangpur Rangers,158,7,Fortune Barishal,162,4,Mehidy Hasan Miraz,Fortune Barishal,field first,Fortune Barishal,SBNCS,Mirpur,6,0,6 wickets,Gazi Sohel,Raveendra Wimalasiri
+2022/23,8th,Jan 10 2023,Sylhet Strikers,201,8,Dhaka Dominators,139,10,Towhid Hridoy,Dhaka Dominators,field first,Sylhet Strikers,SBNCS,Mirpur,0,62,62 runs,David Millns,Masudur Rahman
+2022/23,9th,Jan 13 2023,Fortune Barishal,202,7,Chattogram Challengers,176,4,Iftikhar Ahmed,Chattogram Challengers,field first,Fortune Barishal,ZACS,Chattogram,0,26,26 runs,Ali Arman,Raveendra Wimalasiri
+2022/23,10th,Jan 13 2023,Khulna Tigers,130,10,Rangpur Rangers,131,6,Robiul Haque,Rangpur Riders,field first,Rangpur Rangers,ZACS,Chattogram,4,0,4 wickets,Prageeth Rambukwella,Tanvir Ahmed
+2022/23,11th,Jan 14 2023,Fortune Barishal,177,6,Comilla Victorians,165,7,Shakib Al Hasan,Comilla Victorians,field first,Fortune Barishal,ZACS,Chattogram,0,12,12 runs,David Millns,Morshed Ali Khan
+2022/23,12th,Jan 14 2023,Dhaka Dominators,158,6,Chattogram Challengers,159,2,Afif Hossain,Dhaka Dominators,bat first,Chattogram Challengers,ZACS,Chattogram,8,0,8 wickets,Ali Arman,Prageeth Rambukwella
+2022/23,13th,Jan 16 2023,Dhaka Dominators,128,7,Sylhet Strikers,134,5,Imad Wasim,Dhaka Dominators,bat first,Sylhet Strikers,ZACS,Chattogram,5,0,5 wickets,David Millns,Morshed Ali Khan
+2022/23,14th,Jan 16 2023,Chattogram Challengers,135,8,Comilla Victorians,137,4,Litton Das,Chattogram Challengers,bat first,Comilla Victorians,ZACS,Chattogram,6,0,6 wickets,Ali Arman,Raveendra Wimalasiri
+2022/23,15th,Jan 17 2023,Rangpur Rangers,129,10,Khulna Tigers,130,1,Wahab Riaz,Khulna Tigers,field first,Khulna Tigers,ZACS,Chattogram,9,0,9 wickets,Ali Arman,David Millns
+2022/23,16th,Jan 17 2023,Sylhet Strikers,133,7,Comilla Victorians,134,5,Litton Das,Comilla Victorians,field first,Comilla Victorians,ZACS,Chattogram,5,0,5 wickets,Prageeth Rambukwella,Tanvir Ahmed
+2022/23,17th,Jan 19 2023,Comilla Victorians,184,4,Dhaka Dominators,151,4,Khushdil Shah,Dhaka Dominators,field first,Comilla Victorians,ZACS,Chattogram,0,33,33 runs,Raveendra Wimalasiri,Mahfuzur Rahman
+2022/23,18th,Jan 19 2023,Fortune Barishal,238,4,Rangpur Rangers,171,9,Iftikhar Ahmed,Rangpur Rangers,field first,Fortune Barishal,ZACS,Chattogram,0,67,67 runs,Masudur Rahman,Prageeth Rambukwella
+2022/23,19th,Jan 20 2023,Chattogram Challengers,157,9,Khulna Tigers,159,3,Mahmudul Hasan Joy,Khulna Tigers,field first,Khulna Tigers,ZACS,Chattogram,7,0,7 wickets,Mahfuzur Rahman,Raveendra Wimalasiri
+2022/23,20th,Jan 20 2023,Fortune Barishal,173,5,Dhaka Dominators,160,4,Iftikhar Ahmed,Dhaka Dominators,field first,Fortune Barishal,ZACS,Chattogram,0,13,13 runs,David Millns,Masudur Rahman
+2022/23,21st,Jan 23 2023,Rangpur Rangers,179,6,Chattogram Challengers,124,10,Shoaib Malik,Chattogram Challengers,field first,Rangpur Rangers,SBNCS,Mirpur,0,55,55 runs,Muhammad Kamruzzaman,Prageeth Rambukwella
+2022/23,22nd,Jan 23 2023,Comilla Victorians,164,6,Dhaka Dominators,104,9,Khushdil Shah,Dhaka Dominators,field first,Comilla Victorians,SBNCS,Mirpur,0,60,60 runs,Masudur Rahman,Raveendra Wimalasiri
+2022/23,23rd,Jan 24 2023,Sylhet Strikers,173,5,Fortune Barishal,178,8,Najmul Hossain Shanto,Fortune Barishal,field first,Sylhet Strikers,SBNCS,Mirpur,0,2,2 runs,David Millns,Masudur Rahman
+2022/23,24th,Jan 24 2023,Dhaka Dominators,108,10,Khulna Tigers,84,10,Taskin Ahmed,Khulna Tigers,field first,Dhaka Dominators,SBNCS,Mirpur,0,24,24 runs,Muhammad Kamruzzaman,Raveendra Wimalasiri
+2022/23,25th,Jan 27 2023,Sylhet Strikers,92,9,Rangpur Rangers,93,4,Azmatullah Omarzai,Rangpur Riders,field first,Rangpur Rangers,SylhetICS,Sylhet,6,0,6 wickets,Gazi Sohel,Prageeth Rambukwella
+2022/23,26th,Jan 27 2023,Chattogram Challengers,168,6,Fortune Barishal,171,7,Anamul Haque,Fortune Barishal,field first,Fortune Barishal,SylhetICS,Sylhet,3,0,3 wickets,David Millns,Mahfuzur Rahman
+2022/23,27th,Jan 28 2023,Comilla Victorians,165,2,Khulna Tigers,161,6,Mohammad Rizwan,Khulna Tigers,field first,Comilla Victorians,SylhetICS,Sylhet,0,4,4 runs,Mahfuzur Rahman,Raveendra Wimalasiri
+2022/23,28th,Jan 28 2023,Chattogram Challengers,174,6,Sylhet Strikers,177,3,Najmul Hossain Shanto,Chattogram Challengers,bat first,Sylhet Strikers,SylhetICS,Sylhet,7,0,7 wickets,David Millns,Tanvir Ahmed
+2022/23,29th,Jan 30 2023,Dhaka Dominators,144,5,Rangpur Rangers,146,5,Mahedi Hasan,Rangpur Riders,field first,Rangpur Rangers,SylhetICS,Sylhet,5,0,5 wickets,Ali Arman,Prageeth Rambukwella
+2022/23,30th,Jan 30 2023,Sylhet Strikers,192,4,Khulna Tigers,161,9,Towhid Hridoy,Khulna Tigers,field first,Sylhet Strikers,SylhetICS,Sylhet,0,31,31 runs,Morshed Ali Khan,Raveendra Wimalasiri
+2022/23,31st,Jan 31 2023,Fortune Barishal,156,8,Dhaka Dominators,157,5,Mohammad Mithun,Fortune Barishal,bat first,Dhaka Dominators,SylhetICS,Sylhet,5,0,5 wickets,Mozahiduzzaman,Prageeth Rambukwella
+2022/23,32nd,Jan 31 2023,Khulna Tigers,210,2,Comilla Victorians,213,3,Johnson Charles,Comilla Victorians,field first,Comilla Victorians,SylhetICS,Sylhet,7,0,7 wickets,David Millns,Raveendra Wimalasiri
+2022/23,33rd,Feb 3 2023,Fortune Barishal,194,5,Khulna Tigers,157,8,Shakib Al Hasan,Khulna Tigers,field first,Fortune Barishal,SBNCS,Mirpur,0,37,37 runs,David Millns,Masudur Rahman
+2022/23,34th,Feb 3 2023,Dhaka Dominators,130,8,Rangpur Rangers,133,8,Nurul Hasan,Rangpur Riders,field first,Rangpur Rangers,SBNCS,Mirpur,2,0,2 wickets,Gazi Sohel,Prageeth Rambukwella
+2022/23,35th,Feb 4 2023,Chattogram Challengers,156,7,Comilla Victorians,157,4,Mohammad Rizwan,Chattogram Challengers,bat first,Comilla Victorians,SBNCS,Mirpur,6,0,6 wickets,Gazi Sohel,Raveendra Wimalasiri
+2022/23,36th,Feb 4 2023,Sylhet Strikers,170,2,Rangpur Rangers,176,2,Rony Talukdar,Rangpur Riders,field first,Rangpur Rangers,SBNCS,Mirpur,8,0,8 wickets,Masudur Rahman,Prageeth Rambukwella
+2022/23,37th,Feb 7 2023,Chattogram Challengers,118,8,Dhaka Dominators,103,9,Ziaur Rahman,Chattogram Challengers,bat first,Chattogram Challengers,SBNCS,Mirpur,0,15,15 runs,David Millns,Mozahiduzzaman
+2022/23,38th,Feb 7 2023,Fortune Barishal,121,10,Comilla Victorians,122,5,Mukidul Islam,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,5,0,5 wickest,Mahfuzur Rahman,Raveendra Wimalasiri
+2022/23,39th,Feb 8 2023,Khulna Tigers,113,8,Sylhet Strikers,114,4,Imad Wasim,Khulna Tigers,bat first,Sylhet Strikers,SBNCS,Mirpur,6,0,6 wickets,David Millns,Mahfuzur RahmanMahfuzur Rahman
+2022/23,40th,Feb 8 2023,Chattogram Challengers,132,8,Rangpur Rangers,135,3,Haris Rauf,Chattogram Challengers,bat first,Rangpur Rangers,SBNCS,Mirpur,7,0,7 wickets,Mozahiduzzaman,Prageeth Rambukwella
+2022/23,41st,Feb 10 2023,Comilla Victorians,177,5,Rangpur Rangers,107,10,Tanvir Islam,Rangpur Riders,field first,Comilla Victorians,SBNCS,Mirpur,0,70,70 runs,Mahfuzur Rahman,Prageeth Rambukwella
+2022/23,42nd,Feb 10 2023,Fortune Barishal,169,8,Khulna Tigers,172,4,Mahmudul Hasan Joy,	Fortune Barishal,bat first,Khulna Tigers,SBNCS,Mirpur,6,0,6 wickets,Ali Arman,Raveendra Wimalasiri
+2022/23,Eliminator,Feb 12 2023,Fortune Barishal,170,3,Rangpur Rangers,172,6,Shamim Hossain,Rangpur Riders,field first,Rangpur Rangers,SBNCS,Mirpur,4,0,4 wickets,Ali Arman,Prageeth Rambukwella
+2022/23,1st Qualifier,Feb 12 2023,Sylhet Strikers,125,10,Comilla Victorians,130,6,Tanvir Islam,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,4,0,4 wickets,David Millns,Raveendra Wimalasiri
+2022/23,2nd Qualifier,Feb 14 2023,Sylhet Strikers,182,7,Rangpur Rangers,163,8,Tanzim Hasan Sakib,Rangpur Riders,field first,Sylhet Strikers,SBNCS,Mirpur,0,19,19 runs,Prageeth Rambukwella,Raveendra Wimalasiri
+2022/23,Final,Feb 16 2023,Sylhet Strikers,175,7,Comilla Victorians,176,3,Johnson Charles,Comilla Victorians,field first,Comilla Victorians,SBNCS,Mirpur,7,0,7 wickets,David Millns,Tanvir Ahmed
